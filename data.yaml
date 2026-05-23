@@ -1,8 +1,8 @@
 train: ./dataset/train/images
 val: ./dataset/val/images
 
-nc: 3  # 你的類別數
-names: ['Wheatgrass', 'Oregano', 'Lavender']  # 對應 0,1,2
+nc: 3 # 你的類別數
+names: ["Wheatgrass", "Oregano", "Lavender"] # 對應 0,1,2
 
 # Wheatgrass：小麥草，尖刺狀綠葉
 
